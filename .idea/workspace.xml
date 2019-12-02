@@ -12,657 +12,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84a60153-3cfb-4be0-95e3-bcce3065a39a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3Ywn3f0Ta7ppffVoia21qHQNkmQ=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/3Ywn3f0Ta7ppffVoia21qHQNkmQ=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Y_P3GW6eMQhigTV28qCqMKiMcoo=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_I53a5GgjA5VTXXN5IpWEhzKfig=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/20.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/27.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/36.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/38.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/activity/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$anim.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$bool.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$interpolator.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/appcompat/resources/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/arch/core/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/asynclayoutinflater/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/coordinatorlayout/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/core/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/cursoradapter/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/customview/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/documentfile/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/drawerlayout/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/fragment/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/interpolator/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreui/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/legacy/coreutils/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/lifecycle/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/lifecycle/livedata/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/lifecycle/livedata/core/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/lifecycle/viewmodel/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/loader/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/localbroadcastmanager/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/print/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/recyclerview/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/savedstate/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/slidingpanelayout/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/swiperefreshlayout/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/vectordrawable/animated/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/versionedparcelable/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/androidx/viewpager/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$bool.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/bumptech/glide/gifdecoder/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/tbruyelle/rxpermissions/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$anim.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$bool.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$interpolator.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/BuildConfig.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/GifSizeFilter$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/GifSizeFilter.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$anim.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$bool.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$integer.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$interpolator.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$mipmap.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/SampleActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/SampleActivity$UriAdapter$UriViewHolder.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/SampleActivity$UriAdapter.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/com/zhihu/matisse/sample/SampleActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/it/sephiroth/android/library/easing/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/47/it/sephiroth/android/library/imagezoom/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/Matisse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/SelectionCreator$ScreenOrientation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/SelectionCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/loader/AlbumLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/loader/AlbumMediaLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/model/AlbumCollection$AlbumCallbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/model/AlbumCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/model/AlbumMediaCollection$AlbumMediaCallbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/model/AlbumMediaCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/model/SelectedItemCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/AlbumPreviewActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/BasePreviewActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/BasePreviewActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/BasePreviewActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/MediaSelectionFragment$SelectionProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/MediaSelectionFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/PreviewItemFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/PreviewItemFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/PreviewItemFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/SelectedPreviewActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$CaptureViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$CheckStateListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$MediaViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$OnMediaClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter$OnPhotoCapture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumMediaAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/AlbumsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/PreviewPagerAdapter$OnPrimaryItemSetListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/PreviewPagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/adapter/RecyclerViewCursorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/AlbumsSpinner$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/AlbumsSpinner$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/AlbumsSpinner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/CheckRadioView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/CheckView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/IncapableDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/IncapableDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/MediaGrid$OnMediaGridClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/MediaGrid$PreBindInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/MediaGrid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/MediaGridInset.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/PreviewViewPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/RoundedRectangleImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/ui/widget/SquareFrameLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/ExifInterfaceCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/MediaStoreCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/PathUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/PhotoMetadataUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/Platform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/SingleMediaScanner$ScanListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/SingleMediaScanner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/internal/utils/UIUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/listener/OnFragmentInteractionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/ui/MatisseActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/ui/MatisseActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matisse/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/ui/MatisseActivity.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" afterPath="$PROJECT_DIR$/matisse/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$attr.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$bool.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$color.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$dimen.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$drawable.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$id.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$integer.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$interpolator.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$interpolator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$layout.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$mipmap.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$string.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$style.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$styleable.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$xml.class" afterPath="$PROJECT_DIR$/sample/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/zhihu/matisse/sample/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_bottom_toolbar_apply.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_bottom_toolbar_apply.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_bottom_toolbar_preview.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_bottom_toolbar_preview.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_preview_bottom_toolbar_apply.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_dracula_preview_bottom_toolbar_apply.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_bottom_toolbar_apply.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_bottom_toolbar_apply.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_bottom_toolbar_preview.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_bottom_toolbar_preview.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_preview_bottom_toolbar_apply.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/color_zhihu_preview_bottom_toolbar_apply.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_check_white_18dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_check_white_18dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_empty_dracula.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_empty_dracula.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_empty_zhihu.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_empty_zhihu.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_gif.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_gif.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_play_circle_outline_white_48dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_play_circle_outline_white_48dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_preview_radio_off.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_preview_radio_off.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_preview_radio_on.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_preview_radio_on.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_check_white_18dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_check_white_18dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_empty_dracula.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_empty_dracula.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_empty_zhihu.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_empty_zhihu.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_gif.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_gif.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_play_circle_outline_white_48dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_play_circle_outline_white_48dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_preview_radio_off.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_preview_radio_off.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_preview_radio_on.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_preview_radio_on.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_check_white_18dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_check_white_18dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_empty_dracula.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_empty_dracula.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_empty_zhihu.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_empty_zhihu.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_gif.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_gif.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_preview_radio_off.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_preview_radio_off.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_preview_radio_on.webp.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_preview_radio_on.webp.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_top_back_icon.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4_top_back_icon.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_check_white_18dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_check_white_18dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_empty_dracula.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_empty_dracula.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_empty_zhihu.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_empty_zhihu.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_gif.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_gif.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_arrow_drop_down_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_check_white_18dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_check_white_18dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_empty_dracula.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_empty_dracula.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_empty_zhihu.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_empty_zhihu.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_gif.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_gif.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_photo_camera_white_24dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_photo_camera_white_24dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_play_circle_outline_white_48dp.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable_shape_button_apply_bg.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/drawable_shape_button_apply_bg.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_matisse.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_matisse.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_media_preview.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_activity_media_preview.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_album_list_item.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_album_list_item.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_album_list_item2.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_album_list_item2.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_fragment_media_selection.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_fragment_media_selection.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_fragment_preview_item.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_fragment_preview_item.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_media_grid_content.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_media_grid_content.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_media_grid_item.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_media_grid_item.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_photo_capture_item.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_photo_capture_item.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_uri_item.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/layout_uri_item.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-land_values-land.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-land_values-land.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-night-v8_values-night-v8.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-night-v8_values-night-v8.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tr-rTR_values-tr-rTR.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tr-rTR_values-tr-rTR.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v22_values-v22.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v22_values-v22.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v25_values-v25.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v25_values-v25.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v26_values-v26.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v26_values-v26.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v28_values-v28.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-v28_values-v28.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-watch-v20_values-watch-v20.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-watch-v20_values-watch-v20.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-watch-v21_values-watch-v21.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-watch-v21_values-watch-v21.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/xml_file_paths_private.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/xml_file_paths_private.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/xml_file_paths_public.xml.flat" afterPath="$PROJECT_DIR$/sample/build/intermediates/res/merged/debug/xml_file_paths_public.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/10.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/11.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/12.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/13.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/14.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/15.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/16.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/17.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/17.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/18.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/18.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/19.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/19.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/21.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/21.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/22.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/22.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/23.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/23.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/24.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/24.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/25.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/26.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/26.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/28.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/28.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/29.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/29.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/30.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/30.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/31.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/31.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/32.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/32.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/33.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/33.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/34.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/34.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/35.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/35.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/37.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/37.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/39.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/39.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/40.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/40.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/41.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/41.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/42.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/42.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/43.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/43.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/44.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/44.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/45.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/45.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/46.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/46.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/5.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/7.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/8.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/9.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/outputs/apk/debug/sample-debug.apk" afterPath="$PROJECT_DIR$/sample/build/outputs/apk/debug/sample-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build.gradle" afterPath="$PROJECT_DIR$/matisse/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/matisse/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/library_manifest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/matisse/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/matisse/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/matisse.iml" afterPath="$PROJECT_DIR$/matisse/matisse.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/zhihu/matisse/sample/R.java" afterPath="$PROJECT_DIR$/sample/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/zhihu/matisse/sample/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-af.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-af.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-am.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-am.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ar.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-as.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-as.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-az.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-az.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-b+sr+Latn.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-b+sr+Latn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-be.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-be.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bg.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bn.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bs.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-bs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ca.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-cs.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-da.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-da.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-de.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-el.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rCA.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rXC.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-en-rXC.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-es.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-et.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-et.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-eu.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-eu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fa.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fi.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fr.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-gl.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-gl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-gu.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-gu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hi.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hr.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hu.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hy.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-hy.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-in.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-in.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-is.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-is.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-it.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-iw.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ja.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ka.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ka.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-kk.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-kk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-km.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-km.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-kn.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-kn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ko.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ky.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ky.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-land.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ldltr-v21.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ldltr-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lo.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lt.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lv.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-lv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mk.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ml.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ml.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mn.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mr.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-mr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ms.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ms.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-my.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-my.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-nb.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-nb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ne.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ne.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-night-v8.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-night-v8.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-nl.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-or.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-or.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pa.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pl.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-port.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-port.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ro.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ru.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-si.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-si.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sk.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sl.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sq.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sq.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sr.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sv.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sw.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ta.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ta.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-te.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-te.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-th.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-th.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tl.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tr-rTR.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tr-rTR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tr.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-tr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-uk.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ur.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-ur.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-uz.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-uz.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v16.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v16.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v17.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v18.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v18.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v21.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v22.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v22.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v23.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v24.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v24.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v25.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v25.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v26.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v26.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v28.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-v28.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-vi.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-watch-v20.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-watch-v20.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-watch-v21.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-watch-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zh.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zu.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values-zu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/blame/res/debug/single/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/sample/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/sample/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/sample/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/loader/AlbumLoader.java" afterPath="$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/loader/AlbumLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build.gradle" afterPath="$PROJECT_DIR$/sample/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/merged_manifests/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/sample.iml" afterPath="$PROJECT_DIR$/sample/sample.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -700,7 +128,83 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-393">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matisse/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2313">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matisse/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-59">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matisse/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -4113,6 +3617,9 @@
         <option value="$PROJECT_DIR$/sample/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/matisse/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/sample/src/main/java/com/zhihu/matisse/sample/SampleActivity.java" />
+        <option value="$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/loader/AlbumLoader.java" />
+        <option value="$PROJECT_DIR$/sample/build.gradle" />
+        <option value="$PROJECT_DIR$/matisse/build.gradle" />
       </list>
     </option>
   </component>
@@ -4137,10 +3644,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -4153,8 +3659,137 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matisse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matisse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matisse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhihu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matisse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Matisse-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matisse" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4253,7 +3888,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575278322177" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575279237867" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -4300,7 +3935,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575278322177" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575279237867" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -4474,7 +4109,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575278322177" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1575279237867" />
       </method>
     </configuration>
     <list size="1">
@@ -4528,7 +4163,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4539,7 +4174,7 @@
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31419286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31419286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4548,7 +4183,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -4605,11 +4240,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/ui/BasePreviewActivity.java" />
-    <entry file="file://$PROJECT_DIR$/matisse/src/main/res/values/styles.xml" />
-    <entry file="file://$PROJECT_DIR$/sample/src/main/res/values-zh/strings.xml" />
-    <entry file="file://$PROJECT_DIR$/matisse/src/main/res/values-es/strings.xml" />
-    <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
     <entry file="file://$PROJECT_DIR$/checkstyle.xml" />
     <entry file="file://$PROJECT_DIR$/matisse/src/main/res/color/dracula_bottom_toolbar_apply.xml" />
     <entry file="file://$PROJECT_DIR$/matisse/src/main/res/color/dracula_bottom_toolbar_preview.xml" />
@@ -4664,15 +4294,98 @@
     <entry file="file://$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/ui/BasePreviewActivity.java" />
     <entry file="file://$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/ui/SelectedPreviewActivity.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/sample/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/styles.xml" />
-    <entry file="file://$PROJECT_DIR$/matisse/src/main/res/values/styles.xml" />
     <entry file="file://$PROJECT_DIR$/sample/src/main/java/com/zhihu/matisse/sample/GifSizeFilter.java" />
     <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/strings.xml" />
     <entry file="file://$PROJECT_DIR$/sample/src/main/res/values-zh/strings.xml" />
     <entry file="file://$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/ui/MatisseActivity.java" />
-    <entry file="file://$PROJECT_DIR$/matisse/src/main/AndroidManifest.xml" />
     <entry file="file://$PROJECT_DIR$/sample/src/main/java/com/zhihu/matisse/sample/SampleActivity.java" />
-    <entry file="file://$PROJECT_DIR$/matisse/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matisse/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2313">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matisse/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Development/Android/sdk/sources/android-27/android/os/Build.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1959">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Development/Android/sdk/sources/android-29/android/os/Build.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="991" column="37" lean-forward="true" selection-start-line="991" selection-start-column="36" selection-end-line="991" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matisse/src/main/java/com/zhihu/matisse/internal/loader/AlbumLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="290" column="52" lean-forward="false" selection-start-line="290" selection-start-column="52" selection-end-line="290" selection-end-column="52" />
+          <folding>
+            <element signature="e#12058#12059#0" expanded="false" />
+            <element signature="e#12118#12119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matisse/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

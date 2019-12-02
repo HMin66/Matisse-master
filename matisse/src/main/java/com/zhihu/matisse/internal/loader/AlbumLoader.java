@@ -288,6 +288,6 @@ public class AlbumLoader extends CursorLoader {
      * @return 是否是 Android 10 （Q） 之前的版本
      */
     private static boolean beforeAndroidTen() {
-        return android.os.Build.VERSION.SDK_INT < Build.VERSION_CODES.Q;
+        return android.os.Build.VERSION.SDK_INT < 29;
     }
 }

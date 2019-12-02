@@ -1634,7 +1634,7 @@ int styleable FontFamily_fontProviderFetchStrategy 2
 int styleable FontFamily_fontProviderFetchTimeout 3
 int styleable FontFamily_fontProviderPackage 4
 int styleable FontFamily_fontProviderQuery 5
-int[] styleable FontFamilyFont { 0x1010532, 0x101053f, 0x1010570, 0x1010533, 0x101056f, 0x7f04008c, 0x7f040094, 0x7f040095, 0x7f040096, 0x7f04012d }
+int[] styleable FontFamilyFont { 0x1010532, 0x101053f, 0x0, 0x1010533, 0x0, 0x7f04008c, 0x7f040094, 0x7f040095, 0x7f040096, 0x7f04012d }
 int styleable FontFamilyFont_android_font 0
 int styleable FontFamilyFont_android_fontStyle 1
 int styleable FontFamilyFont_android_fontVariationSettings 2
@@ -1789,7 +1789,7 @@ int styleable SwitchCompat_thumbTintMode 10
 int styleable SwitchCompat_track 11
 int styleable SwitchCompat_trackTint 12
 int styleable SwitchCompat_trackTintMode 13
-int[] styleable TextAppearance { 0x10103ac, 0x1010161, 0x1010162, 0x1010163, 0x1010164, 0x1010098, 0x101009a, 0x101009b, 0x1010585, 0x1010095, 0x1010097, 0x1010096, 0x7f04008d, 0x7f040095, 0x7f040104, 0x7f04010f }
+int[] styleable TextAppearance { 0x10103ac, 0x1010161, 0x1010162, 0x1010163, 0x1010164, 0x1010098, 0x101009a, 0x101009b, 0x0, 0x1010095, 0x1010097, 0x1010096, 0x7f04008d, 0x7f040095, 0x7f040104, 0x7f04010f }
 int styleable TextAppearance_android_fontFamily 0
 int styleable TextAppearance_android_shadowColor 1
 int styleable TextAppearance_android_shadowDx 2
