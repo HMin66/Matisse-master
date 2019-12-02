@@ -4,13 +4,13 @@
             "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\4bc5beca484ffa657c7d498d6bd95c60\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d3c24315dfee639b7691cbb42fd02bef\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

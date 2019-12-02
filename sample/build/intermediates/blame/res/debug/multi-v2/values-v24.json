@@ -4,7 +4,7 @@
             "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\4bc5beca484ffa657c7d498d6bd95c60\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d3c24315dfee639b7691cbb42fd02bef\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
