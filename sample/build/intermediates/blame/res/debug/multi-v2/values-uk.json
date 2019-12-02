@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\4bc5beca484ffa657c7d498d6bd95c60\\res\\values-uk\\values-uk.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "452,561,663,771,857,962,1080,1161,1241,1332,1424,1519,1613,1714,1807,1902,1997,2088,2179,2277,2383,2489,2587,2694,2801,2906,3076,4288",
                         "endColumns": "108,101,107,85,104,117,80,79,90,91,94,93,100,92,94,94,90,90,97,105,105,97,106,106,104,169,99,80",
                         "endOffsets": "556,658,766,852,957,1075,1156,1236,1327,1419,1514,1608,1709,1802,1897,1992,2083,2174,2272,2378,2484,2582,2689,2796,2901,3071,3171,4364"
+                    }
+                },
+                {
+                    "source": "D:\\projects\\AndroidProjects\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,402,449,508,569,615,656,708,753,823,919,1011,1080,1174,1244",
+                        "endLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "endColumns": "14,46,58,60,45,40,51,44,69,95,91,68,93,69,53",
+                        "endOffsets": "397,444,503,564,610,651,703,748,818,914,1006,1075,1169,1239,1293"
+                    },
+                    "to": {
+                        "startLines": "2,35,36,37,38,39,40,41,42,44,45,46,47,48,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,3176,3223,3282,3343,3389,3430,3482,3527,3742,3838,3930,3999,4093,4234",
+                        "endLines": "7,35,36,37,38,39,40,41,42,44,45,46,47,48,50",
+                        "endColumns": "14,46,58,60,45,40,51,44,69,95,91,68,93,69,53",
+                        "endOffsets": "447,3218,3277,3338,3384,3425,3477,3522,3592,3833,3925,3994,4088,4158,4283"
                     }
                 },
                 {
@@ -38,26 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-uk\\values-uk.xml",
-                    "from": {
-                        "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,402,449,508,569,615,656,708,753,823,919,1011,1080,1174,1244",
-                        "endLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "endColumns": "14,46,58,60,45,40,51,44,69,95,91,68,93,69,53",
-                        "endOffsets": "397,444,503,564,610,651,703,748,818,914,1006,1075,1169,1239,1293"
-                    },
-                    "to": {
-                        "startLines": "2,35,36,37,38,39,40,41,42,44,45,46,47,48,50",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,3176,3223,3282,3343,3389,3430,3482,3527,3742,3838,3930,3999,4093,4234",
-                        "endLines": "7,35,36,37,38,39,40,41,42,44,45,46,47,48,50",
-                        "endColumns": "14,46,58,60,45,40,51,44,69,95,91,68,93,69,53",
-                        "endOffsets": "447,3218,3277,3338,3384,3425,3477,3522,3592,3833,3925,3994,4088,4158,4283"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\src\\main\\res\\values-uk\\strings.xml",
+                    "source": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\src\\main\\res\\values-uk\\strings.xml",
                     "from": {
                         "startLines": "18,17",
                         "startColumns": "4,4",

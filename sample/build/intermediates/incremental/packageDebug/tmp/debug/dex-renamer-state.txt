@@ -1,4 +1,4 @@
-#Wed Nov 13 17:51:29 CST 2019
-base.0=C\:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Dec 02 17:18:30 CST 2019
+base.0=D\:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

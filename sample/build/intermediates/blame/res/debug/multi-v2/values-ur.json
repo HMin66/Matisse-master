@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\0462f2db6e551cde61dfbd12a92c27a5\\res\\values-ur\\values-ur.xml",

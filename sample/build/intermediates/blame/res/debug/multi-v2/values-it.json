@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-it\\values-it.xml",
+                    "source": "D:\\projects\\AndroidProjects\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\src\\main\\res\\values-it\\strings.xml",
+                    "source": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\src\\main\\res\\values-it\\strings.xml",
                     "from": {
                         "startLines": "17,19,18",
                         "startColumns": "4,4,4",

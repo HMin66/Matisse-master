@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Oct 28 16:56:13 CST 2019
+#Mon Dec 02 17:18:30 CST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=D\:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

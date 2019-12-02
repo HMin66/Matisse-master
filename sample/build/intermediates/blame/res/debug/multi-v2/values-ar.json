@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "D:\\projects\\AndroidProjects\\Matisse-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\4bc5beca484ffa657c7d498d6bd95c60\\res\\values-ar\\values-ar.xml",
@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hmin66\\Desktop\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-ar\\values-ar.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,171,226,271,312,362,427,489,586,680,767,825,921,980",
-                        "endColumns": "61,53,54,44,40,49,64,61,96,93,86,57,95,58,53",
-                        "endOffsets": "112,166,221,266,307,357,422,484,581,675,762,820,916,975,1029"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2758,2820,2874,2929,2974,3015,3065,3130,3192,3289,3383,3470,3528,3624,3683",
-                        "endColumns": "61,53,54,44,40,49,64,61,96,93,86,57,95,58,53",
-                        "endOffsets": "2815,2869,2924,2969,3010,3060,3125,3187,3284,3378,3465,3523,3619,3678,3732"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hmin66\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\0462f2db6e551cde61dfbd12a92c27a5\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
@@ -52,6 +35,23 @@
                         "startOffsets": "3818",
                         "endColumns": "100",
                         "endOffsets": "3914"
+                    }
+                },
+                {
+                    "source": "D:\\projects\\AndroidProjects\\Matisse-master\\matisse\\build\\intermediates\\packaged_res\\debug\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,171,226,271,312,362,427,489,586,680,767,825,921,980",
+                        "endColumns": "61,53,54,44,40,49,64,61,96,93,86,57,95,58,53",
+                        "endOffsets": "112,166,221,266,307,357,422,484,581,675,762,820,916,975,1029"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2758,2820,2874,2929,2974,3015,3065,3130,3192,3289,3383,3470,3528,3624,3683",
+                        "endColumns": "61,53,54,44,40,49,64,61,96,93,86,57,95,58,53",
+                        "endOffsets": "2815,2869,2924,2969,3010,3060,3125,3187,3284,3378,3465,3523,3619,3678,3732"
                     }
                 }
             ]
